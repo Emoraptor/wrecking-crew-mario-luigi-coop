@@ -60,3 +60,5 @@ The core co-op system and fixed-camera presentation are working. RC1 is being te
 ## Distribution
 
 Please distribute **the patch, not a complete ROM image**.
+
+Project status: Complete. No active development is planned. Forks, experiments and further improvements are welcome.
