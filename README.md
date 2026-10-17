@@ -78,9 +78,9 @@ to the exact base ROM:
 
 ### Expected patched ROM
 
-- SHA-1: `52e82598afdb26fe69814df6607e2117563e0f92`
-- MD5: `4ab50811a103a673c02c5c2b1093f7d6`
-- CRC32: `baa7b0d9`
+- SHA-1: b90e4ef955fa66a321ccf63ea233474578829c34
+- MD5: 88c4d013950e18a1c80fdd5a0e295f6e
+- CRC32: 7c666bf8
 - Size: `40976 bytes`
 
 ## RC1 status
